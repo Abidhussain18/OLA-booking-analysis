@@ -1,2 +1,2 @@
-# OLA-booking-analysis
-Data Analytics project showcasing OLA booking analysis using Excel / Googlesheets , Sql and Power bi 
+# OLA-Ride-Bookings-Analysis
+Data Analytics project showcasing booking analysis of OLA using Excel / Googlesheets , Sql and Power bi 
